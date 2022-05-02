@@ -2,7 +2,6 @@ package com.freudromero.jackson.json.demo;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import javax.imageio.stream.FileImageInputStream;
 import java.io.File;
 
 public class Driver {
